@@ -52,7 +52,7 @@ python "C:\Users\ASUS\Desktop\ShopImpact\mock_api.py"
 python -m streamlit run "C:\Users\ASUS\Desktop\ShopImpact\ShopImpact.py"
 ```
 
-Open the `Local URL` printed by Streamlit (e.g. http://localhost:8501 or http://192.168.29.29:8501 ) in your browser.
+Open the `Local URL` printed by Streamlit (e.g. https://shopimpact-az2fbqpfzgqbpb5pjkduda.streamlit.app/ ) in your browser.
 
 If you started the mock API, the app's status check will show the backend as reachable.
 
