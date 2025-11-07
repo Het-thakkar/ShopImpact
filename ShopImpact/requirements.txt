@@ -1,0 +1,5 @@
+streamlit
+pandas
+matplotlib
+# Optional: if you have the local `shopimpact` package as dependency, make
+# sure it's in your repo or installable via pip. If you need extra libs add them here.
